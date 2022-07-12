@@ -13,8 +13,8 @@ Hi, I am a Ph.D. candidate in the Department of Statistcs at Texas A&M Universit
 Education
 -----
 * Ph.D in Statistics, Texas A&M University, 2024 (Expected)
-* B.S. in Mathematical Sciences, Seoul National University, 2019
-* B.A. in Business, Seoul National University, 2019
+* B.S./B.A. in Mathematical Sciences/Business, Seoul National University, 2019
+
 
 Selected Publications
 -----
