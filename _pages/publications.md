@@ -1,9 +1,14 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
+
+# Preprints
+
+- Q. Zhou and **H. Chang**. "**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**". Submitted.
+
+  [arXiv](https://arxiv.org/abs/2101.04084){: .btn--research} 
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
