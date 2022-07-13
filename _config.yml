@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hyunwoong Chang"
 title_separator          : "-"
 name                     : &name "Hyunwoong Chang"
-description              : &description "Ph.D. candidate at Texas A&M University"
+description              : &description "Ph.D. candidate in Statistics"
 url                      : https://hwchang1201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hwchang1201/hwchang1201.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hyunwoong Chang"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. candidate at Texas A&M University"
+  bio              : "Ph.D. candidate in Statistics"
   location         : # "College Station, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
