@@ -10,8 +10,12 @@ Instructor
 
 Teaching assistant
 ======
-- Stat 614: Probability for Statistics (graduate level), Fall 2022
-- Stat 648: Apllied Stat & Data Analysis (graduate level), Spring 2021 
-- Stat 612: Theory of Linear Models (graduate level), Fall 2021, Fall 2022
-- Stat 404: Statistical Computing, Spring 2020
-- Stat 211: Principles of Statistics I, Fall 2017, Spring 2018
+
+- Stat 303, Statistical Methods, Summer 2022
+- Stat 646, Statistical Bioinformatics, Spring 2022
+- Stat 645, Applied Biostatistics and Data Analysis, Fall 2021
+- Stat 415, Mathematical Statistics II, Spring 2021
+- Stat 404, Statistical Computing, Fall 2020
+- Stat 656, Applied Analytics, Spring 2020
+- Stat 604, Topics in Statistical Computations, Spring 2020
+- Stat 610, Theory of Statistics - Distribution Theory, Fall 2019
