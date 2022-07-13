@@ -8,7 +8,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Preprints
 ======
 
-- Q. Zhou and **H. Chang**. "**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**". Submitted.
-
-  [arXiv](https://arxiv.org/abs/2101.04084){: .btn--research} 
-
+- Q. Zhou and **H. Chang**. "**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**". Submitted. [[arXiv]](https://arxiv.org/abs/2101.04084)
