@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Ph.D. candidate in the Department of Statistcs at Texas A&M University. 
+Hi, I am a Ph.D. candidate in the [Department of Statistcs](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Drs. [Quan Zhou](https://web.stat.tamu.edu/~quan/) and [Suojin Wang](https://web.stat.tamu.edu/~sjwang/). 
+
 
 Education
 -----
