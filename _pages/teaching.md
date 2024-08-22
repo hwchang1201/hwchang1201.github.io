@@ -7,6 +7,10 @@ permalink: /teaching/
 Instructor
 ======
 
+**University of Texas at Dallas**
+
+- STAT 4352, Mathematical Statistics, Fall 2024
+
 **Texas A&M University**
 
 - STAT 302, Statistical Methods, Fall 2022
