@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Statistcs](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Drs. [Quan Zhou](https://web.stat.tamu.edu/~quan/) and [Suojin Wang](https://web.stat.tamu.edu/~sjwang/). 
+I am a tenure-track Assistant Professor of Statistics in the [Department of Mathematical Science](https://math.utdallas.edu/) at [University of Texas at Dallas](https://www.utdallas.edu/).
+
+**Email:** hwchang@utdallas.edu 
+
+**Office:** FO 2.610A, 800 W Campbell Rd, Richardson, TX 75080
+
+**Research interest:** Structure learning of DAG models, Markov chain Monte Carlo (MCMC), Bayesian statistics
+
+I received a Ph.D. in the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Drs. [Quan Zhou](https://web.stat.tamu.edu/~quan/) and [Suojin Wang](https://web.stat.tamu.edu/~sjwang/). 
 
 
-I will join [Department of Mathematical Science](https://math.utdallas.edu/) at [University of Texas at Dallas](https://www.utdallas.edu/) as an Assistant Professor in Fall 2024.
 
-Research Interests
+Update (August 2024)
 ------
 
-* Structure learning
-* Model selection
-* Markov chain Monte Carlo
-* Bayesian statistics
-
-
-Contact
-------
-Email: hwchang1201 (at) tamu (dot) edu
